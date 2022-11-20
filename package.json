@@ -1,0 +1,14 @@
+{
+  "name": "testnpmjs",
+  "version": "1.0.0",
+  "description": "Simple first test of npm and js packaging",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ALL"
+  ],
+  "author": "NATE THE GREAT",
+  "license": "ISC"
+}
